@@ -72,7 +72,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
+                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -239,7 +239,7 @@ def stream_markup2(_, chat_id):
                 text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
+                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -522,7 +522,7 @@ def panel_markup_clone(_, vidid, chat_id):
                 text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρρяτ ˼", url=f"https://t.me/+FQF7rz0qM1MxMTk1"
+                text="˹ 𝐒υρρяτ ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
