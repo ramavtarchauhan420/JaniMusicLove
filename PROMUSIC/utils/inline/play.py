@@ -52,7 +52,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 80 <= umm < 95:
         bar = "————————🌹—"
     else:
-        bar = "𓆰꯭꯭♔꯭꯭𝐕ɪ֟፝‌꯭ᴘ꯭ 𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭"
+        bar = "𝗝𝗮𝗻𝗶 ♪ 𝗠𝘂𝘀𝗶𝗰"
     buttons = [
         [
             InlineKeyboardButton(
@@ -69,10 +69,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
+                text="˹ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -236,10 +236,10 @@ def stream_markup2(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρροяτ ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
+                text="˹ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -267,7 +267,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
     elif 50 <= umm < 70:
         bar = "———————🌹———"
     else:
-        bar = "𓆰꯭꯭♔꯭꯭𝐕ɪ֟፝‌꯭ᴘ꯭ 𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭"
+        bar = "𝗝𝗮𝗻𝗶 ♪ 𝗠𝘂𝘀𝗶𝗰"
 
     buttons = [
         [
@@ -462,7 +462,7 @@ def panel_markup_4(_, vidid, chat_id, played, dur):
     elif 50 <= umm < 70:
         bar = "———————🌹———"
     else:
-        bar = "𓆰꯭꯭♔꯭꯭𝐕ɪ֟፝‌꯭ᴘ꯭ 𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭"
+        bar = "𝗝𝗮𝗻𝗶 ♪ 𝗠𝘂𝘀𝗶𝗰"
 
     buttons = [
         [
@@ -519,10 +519,10 @@ def panel_markup_clone(_, vidid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ ❍ᴡɴᴇꝛ ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/RAM_HACKER_RP"
             ),
             InlineKeyboardButton(
-                text="˹ 𝐒υρρяτ ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
+                text="˹ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ˼", url=f"https://t.me/+33xavd1LCCk1MjRl"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
