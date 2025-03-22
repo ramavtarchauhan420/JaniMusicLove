@@ -174,7 +174,7 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b><blockquote>➥ [𝗝ąñı](https://t.me/Jani_Music_Robot) ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote>❤️‍🔥 ϻᴧᴅє ʙʏ➛ [𓆰꯭꯭♔꯭꯭𝐕ɪ֟፝‌꯭ᴘ꯭ 𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭](http://t.me/RAM_HACKER_RP)</b></blockquote>"
+stream_1 : "<b><blockquote>➥ [𝗝ąñı](https://t.me/Jani_Music_Robot) ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote>❤️‍🔥 ϻᴧᴅє ʙʏ➛ [𓆰꯭꯭♔꯭꯭𝐕ɪ֟፝‌꯭ᴘ꯭ 𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭](http://t.me/RAM_HACKER_RP)❤️‍🔥 𝗖𝗵𝗮𝘁➛ [⋆⎯꯭̽𝅃꯭᳚𓆰꯭꯭♔꯭꯭ 𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭➛꯭❤️‍🔥꯭➧꯭💌꯭꯭](https://t.me/Jani_Chating)</b></blockquote>"
 stream_2 : "<b><blockquote>➥ [𝗝ąñı](https://t.me/Jani_Music_Robot) ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote>"
 
 
@@ -343,7 +343,7 @@ song_11 : "ᴜᴘʟᴏᴀᴅɪɴɢ sᴛᴀʀᴛᴇᴅ ʙᴀʙʏ\n\nᴘʟᴇᴀs�
 
 # New Clone !
 
-BOT_DESC : "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @Jani_Music_Robot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @Jani_RP\n - Sᴜᴘᴘᴏʀᴛ: https://t.me/+33xavd1LCCk1MjRl"
+BOT_DESC : "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @Jani_Music_Robot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @Jani_RP\n - Sᴜᴘᴘᴏʀᴛ: https://t.me/Jani_Chating"
 
 C_B_1 : "• ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇs •"
 C_B_2 : "˹ ❍ᴡɴᴇꝛ ˼"
