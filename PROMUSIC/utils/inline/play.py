@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/Bestfriends_forever_yesh"
             ),
             InlineKeyboardButton(
                 text="˹ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ˼", url=f"https://t.me/Jani_RP"
@@ -236,7 +236,7 @@ def stream_markup2(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/Bestfriends_forever_yesh"
             ),
             InlineKeyboardButton(
                 text="˹ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ˼", url=f"https://t.me/Jani_RP"
@@ -519,7 +519,7 @@ def panel_markup_clone(_, vidid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/RAM_HACKER_RP"
+                text="˹ 𝗢𝘄𝗻𝗲𝗿 ˼", url=f"http://t.me/Bestfriends_forever_yesh"
             ),
             InlineKeyboardButton(
                 text="˹ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ˼", url=f"https://t.me/Jani_RP"
